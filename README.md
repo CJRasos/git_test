@@ -1,3 +1,3 @@
 # git_test
 Git test repository
-YOOOO 
+This is git test
